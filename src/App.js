@@ -1,25 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 
-// function navbarButtons(props) {
-//   return (
-//     <button className = "navButton"
-
-
-//   )
-
-
-
-// }
-
-
-
-
-
-
-
-
-
 function App() {
   return (
     <div className="App">
