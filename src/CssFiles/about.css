@@ -1,0 +1,29 @@
+
+h1 {
+  font-weight: 400;
+  font-size: 60px;
+  margin-right: 400px;
+  margin-left: 58px;
+  margin-top: 0;
+}
+h2 {
+  font-weight: 300;
+  margin: 0px 0px 0px 58px;
+  font-size: 30px;
+}
+.lower {
+  margin-bottom: 10%;
+}
+
+#about {
+  display: flex;
+  flex-direction: column;
+}
+.headshot{
+  width: 300px;
+  height: 300px;
+  margin: 100px 100px 200px 100px;
+  /* padding: 250px, 250px, 250px, 250px; */
+
+}
+

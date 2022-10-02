@@ -1,0 +1,34 @@
+.image {
+  display: flex;
+  max-height: 200px;
+  max-width: 200px;
+  border-radius: 15%;
+  margin: auto;
+  justify-content: center;
+}
+.title{
+  text-align: top;
+  margin: 5%;
+  
+}
+.content{
+  text-align: center;
+  font-family: Menlo, Monaco, 'Courier New', monospace;
+  margin-left: 5%;
+}
+#projects {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: space-between;
+  margin-right: 10%;
+  margin-left: 10%;
+  
+}
+.project {
+  display: flex;
+  border: auto;
+  /* width: 33%; */
+  /* margin-bottom: 20%; */
+
+}
